@@ -1,4 +1,5 @@
 # IOS
+
 print_help()
 {
     echo "Usage: corona [-h] [FILTERS] [COMMAND] [LOG [LOG2 [...]]"
